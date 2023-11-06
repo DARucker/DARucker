@@ -8,6 +8,7 @@
 - 👨‍💻 All of my projects are available at:
 -  [https://github.com/darucker](https://github.com/darucker)
 -  [https://github.com/anderson92zolis/ecommerceChallenge](https://github.com/anderson92zolis/ecommerceChallenge)
+-  [https://github.com/IT-Academy-BCN/ita-challenges-backend](https://github.com/IT-Academy-BCN/ita-challenges-backend)
 
 - 📫 How to reach me **dario.rucker@yahoo.com**
 
